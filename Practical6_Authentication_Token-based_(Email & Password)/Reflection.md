@@ -1,4 +1,4 @@
-# Authentication System Implementation - Personal Reflection 🤔
+# Authentication System Implementation - Personal Reflection
 
 ## Learning Journey Documentation
 

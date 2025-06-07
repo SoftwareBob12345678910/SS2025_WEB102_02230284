@@ -1,4 +1,4 @@
-# Authentication System - JWT Token Implementation 🔐
+# Authentication System - JWT Token Implementation
 
 A comprehensive guide to implementing secure authentication using TypeScript, Express.js, MongoDB, and JWT tokens with email/password validation.
 
